@@ -993,7 +993,13 @@ font-size: 20px;
 .ctaR{
   background-color: #C4C4C4;
   border-radius: 20px;
-  height: 200px;
+  height: 400px;
+}
+.heroedit{
+ background: none;
+}
+.ctaColor{
+  background: #F5F5F5;
 }
 
 
