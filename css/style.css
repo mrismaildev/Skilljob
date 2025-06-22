@@ -1001,6 +1001,56 @@ font-size: 20px;
 .ctaColor{
   background: #F5F5F5;
 }
+/* ?footerpart start*/
+.bk{
+  background: #ddd;
+  margin-bottom: 76px;
+}
+.footerLeft ul{
+  padding: 0;
+}
+.footerLeft ul li{
+ font-size: 20px;
+ font-weight: 120%;
+ font-weight: 400;
+ color: #212121;
+}
+.ul li{
+  font-size: 20px;
+ font-weight: 120%;
+ font-weight: 400;
+ color: #212121;
+}
+
+.fImg h3{
+  font-size: 48px;
+  font-weight: 700;
+  padding-top: 100px;
+}
+.ifelx{
+display: flex;
+justify-content: space-evenly;
+
+} 
+.ftIcons h5{
+  padding-left: 25px;
+}
+
+.fa-brands{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ border: 1px solid #8A38EE;
+ width: 40px;
+ height: 40px;
+  border-radius: 50%;
+  margin-top: 30px;
+}
+ ul li.li{
+  font-size: 16px;
+}
+
+/* ?footerpart End*/
 
 
 
